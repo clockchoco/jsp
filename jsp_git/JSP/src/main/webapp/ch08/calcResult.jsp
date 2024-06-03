@@ -6,8 +6,8 @@
 <title>계산기-컨트롤러</title>
 </head>
 <body>
-<h2>계산 결과-컨트롤러</h2>
+<h1>계산 결과-컨트롤러</h1>
 <hr>
-결과: ${result}
+<h3>결과: ${result}</h3>
 </body>
 </html>
